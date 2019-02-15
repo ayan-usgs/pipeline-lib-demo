@@ -10,6 +10,7 @@ def myMethod() {
     println(scm.doGenerateSubmoduleConfigurations)
     println(scm.extensions)
     println(scm.userRemoteConfigs)
+    println('skitty')
 }
 
 
