@@ -6,6 +6,7 @@
  */
 def myMethod() {
     println('I would have done something.')
+    println(scm)
 }
 
 
