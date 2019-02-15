@@ -6,7 +6,7 @@
  */
 def myMethod() {
     println('I would have done something.')
-    scm.each{ k, v -> println "${k}:${v}" }
+    println(scm.branches)
 }
 
 
