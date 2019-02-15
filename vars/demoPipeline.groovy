@@ -7,6 +7,9 @@
 def myMethod() {
     println('I would have done something.')
     println(scm.branches)
+    println(scm.doGenerateSubmoduleConfigurations)
+    println(scm.extensions)
+    println(scm.userRemoteConfigs)
 }
 
 
